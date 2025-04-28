@@ -1,0 +1,65 @@
+{
+
+    "titulo": "Título do Artigo",
+
+    "informacoes_url": "link pro artigo",
+
+    "idioma": "Inglês/Português",
+
+    "storage_key": "files/article_x.pdf",
+
+    "autores": [
+
+        {
+
+            "nome": "autor 1",
+
+            "afiliacao": "Universidade x",
+
+            "orcid": "http://orcid.org/xxxx-xxxx-xxxx-xxxx"
+
+        },
+
+        {
+
+            "nome": "autor 2",
+
+            "afiliacao": "Universidade x",
+
+            "orcid": "http://orcid.org/xxxx-xxxx-xxxx-xxxx"
+
+        }
+
+    ],
+
+    "data_publicacao": "xx/xx/xxxx",
+
+    "resumo": "Abstract do artigo",
+
+    "keywords": [
+
+        "keyword1",
+
+        "keyword2",
+
+        "keyword3"
+
+    ],
+
+    "referencias": [
+
+        "ref1",
+
+        "ref2",
+
+        "ref3"
+
+        ],
+
+    "artigo_completo": "Artigo"
+
+    "artigo_tokenizado": ["token1","token2",...,"tokenN"]
+
+    "pos_tagger": ["TAG_token1","TAG_token2",...,"TAG_tokenN]
+
+    "lema": ["Lema_1","Lema_2",..."Lema_N"]
